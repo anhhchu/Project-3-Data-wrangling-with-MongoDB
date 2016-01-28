@@ -4,8 +4,6 @@
 
 You will choose any area of the world in https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for a part of the world that you care about.
 
-Prepare for this project with: Data Wrangling with Mongo DB.
-
 ##Why this Project?
 
 What’s so hard about retrieving data from databases or various files formats? You grab some data from this file and that database, clean it up, merge it, and then feed it into your state of the art, deep learning algorithm … Right?
